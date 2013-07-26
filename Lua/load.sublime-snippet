@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[load(${1:ld}, ${2:source}, ${3:mode}, ${4:env})]]></content>
+    <tabTrigger>load</tabTrigger>
+    <scope>source.lua</scope>
+    <description>(ld [, source [, mode [, env]]])</description>
+</snippet>

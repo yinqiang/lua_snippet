@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[loadfile(${1:filename}, ${2:mode}, ${3:env})]]></content>
+    <tabTrigger>loadfile</tabTrigger>
+    <scope>source.lua</scope>
+    <description>([filename [, mode [, env]]])</description>
+</snippet>

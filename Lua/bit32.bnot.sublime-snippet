@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bit32.bnot(${1:x})]]></content>
+    <tabTrigger>bit32.bnot</tabTrigger>
+    <scope>source.lua</scope>
+    <description>(x)</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bit32.btest(${1:...})]]></content>
+    <tabTrigger>bit32.btest</tabTrigger>
+    <scope>source.lua</scope>
+    <description>(...)</description>
+</snippet>

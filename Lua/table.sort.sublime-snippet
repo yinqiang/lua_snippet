@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[table.sort(${1:list}, ${2:comp})]]></content>
+    <tabTrigger>table.sort</tabTrigger>
+    <scope>source.lua</scope>
+    <description>(list [, comp])</description>
+</snippet>
